@@ -1,0 +1,2 @@
+wbbhook delivery failed at first because i omitted to append github-webhook/ to the path
+http://3.8.130.192:8080/github-webhook/ is the correct link.
